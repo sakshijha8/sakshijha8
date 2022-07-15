@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Power BI.**
 
-- 🤝 I’m looking for help me to become **Kaggle Expert**
+- 🤝 I’m looking for help me to become **Data Scientist**
 
-- 💬 Ask me about **Analytics**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
