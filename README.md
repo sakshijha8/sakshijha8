@@ -2,13 +2,13 @@
 <img align = "right" alt = "coding" width = "400"  src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhq9BgVIlwvu2xo1VDzgCOoSbAOL61tcLog&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshijha8&label=Profile%20views&color=0e75b6&style=flat" alt="sakshijha8" /> </p>
 
-- 🔭 I’m currently a **Student**
+- 🔭 I’m currently a **Student.**
 
 - 🌱 I’m currently learning **Power BI.**
 
-- 🤝 I’m looking for help me to become **Data Scientist**
+- 🤝 I’m looking for help me to become **Data Scientist.**
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analytics.**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
