@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a **Student**
 
-- 🌱 I’m currently learning **Flask, Power BI.**
+- 🌱 I’m currently learning **Power BI.**
 
 - 🤝 I’m looking for help me to become **Kaggle Expert**
 
