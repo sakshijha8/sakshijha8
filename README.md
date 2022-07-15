@@ -1,4 +1,3 @@
-<img align = "center" height = "300" width = "1000" src = "https://codetru.com/images/all/datascience.png">
 <h1 align="center">Hi 👋, I'm Sakshi Jha</h1>
 <img align = "right" alt = "coding" width = "400"  src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhq9BgVIlwvu2xo1VDzgCOoSbAOL61tcLog&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshijha8&label=Profile%20views&color=0e75b6&style=flat" alt="sakshijha8" /> </p>
