@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently a **Student.**
 
-- 🌱 I’m currently learning **Power BI.**
+- 🌱 I’m currently learning **Software development.**
 
-- 🤝 I’m looking for help me to become **Data Scientist.**
+- 🤝 I’m looking for help me to become **expert in Coding.**
 
-- 💬 Ask me about **Data Analytics.**
+- 💬 Ask me about **Data Analytics,Oops Concept.**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
