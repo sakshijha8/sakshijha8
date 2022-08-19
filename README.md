@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently a **Student.**
 
-- 🌱 I’m currently learning **Software development.**
+- 🌱 I’m currently learning **Competitive Programming.**
 
-- 🤝 I’m looking for help me to become **expert in Coding.**
+- 🤝 I’m looking for help me to become **Full Stack Developer**
 
-- 💬 Ask me about **Data Analytics,Oops Concept.**
+- 💬 Ask me about **Data structures & algorithms, Oops Concept.**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
