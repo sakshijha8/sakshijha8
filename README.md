@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Competitive Programming.**
 
-- 🤝 I’m looking for help me to become **Full Stack Developer.**
+- 🤝 I’m interesting & love  to do  **Code Code & Code.**
 
 - 💬 Ask me about **Data structures & algorithms, Oops Concept.**
 
