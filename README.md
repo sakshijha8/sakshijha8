@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
-- 📄 Know about my experiences- [Click Here](https://drive.google.com/file/d/1B1RNt_8v24Z0MqYihurGAEFwcdeCXe7U/view?usp=sharing)
+- 📄 Know about my experiences- [Click Here](https://drive.google.com/file/d/1m9_a-xb_CIFkQByQJrH7e9Oz_XLM_HoT/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-jha-a332b8217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-jha-a332b8217" height="30" width="40" /></a>
