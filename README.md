@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently a **Student.**
 
-- 🌱 I’m currently learning **Competitive Programming.**
+- 🌱 I’m currently learning **Deep Learning & Blockchain.**
 
-- 🤝 I’m interesting & love  to do  **Code Code & Code.**
+- 🤝 I’m interesting & love  to do  **Machine Learning & Data Visualization.**
 
-- 💬 Ask me about **Data structures & algorithms, Oops Concept.**
+- 💬 Ask me about **Data Analysis & MySQL.**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
