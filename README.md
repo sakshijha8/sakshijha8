@@ -2,17 +2,17 @@
 <img align = "right" alt = "coding" width = "400"  src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhq9BgVIlwvu2xo1VDzgCOoSbAOL61tcLog&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshijha8&label=Profile%20views&color=0e75b6&style=flat" alt="sakshijha8" /> </p>
 
-- 🔭 I’m currently a **Student.**
+- 🔭 I’m currently doing a intership at  **Wits Innovation Lab.**
 
-- 🌱 I’m currently learning **Deep Learning & Blockchain.**
+- 🌱 I’m currently learning **React Js Advanced.**
 
-- 🤝 I’m interesting & love  to do  **Machine Learning & Data Visualization.**
+- 🤝 I’m interesting & love  to do  **UI/UX Designs and Web Development.**
 
-- 💬 Ask me about **Data Analysis & MySQL.**
+- 💬 Ask me about **React Js and Machine Learning, AI .**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
-- 📄 Know about my experiences- [Click Here](https://drive.google.com/file/d/1m9_a-xb_CIFkQByQJrH7e9Oz_XLM_HoT/view?usp=sharing)
+- 📄 Know about my experiences- [Click Here](https://drive.google.com/file/d/133xpegWv9tY5kfiYQlB8HW9qK_n1VmJM/view?usp=share_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-jha-a332b8217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-jha-a332b8217" height="30" width="40" /></a>
