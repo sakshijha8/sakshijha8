@@ -8,7 +8,7 @@
 
 - 🤝 I’m interesting & love  to do  **Web Development.**
 
-- 💬 Ask me about **React Js and Machine Learning, AI.**
+- 💬 Ask me about **React Js and Backend Nodejs**
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
