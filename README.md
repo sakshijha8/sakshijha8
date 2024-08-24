@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **sakshijha882@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakshi-jha-a332b8217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 </p>
