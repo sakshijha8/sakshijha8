@@ -14,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sakshi-jha-a332b8217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-jha-a332b8217" height="30" width="40" /></a>
-<a href="https://kaggle.com/sakshi20008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sakshi20008" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sakshijha882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakshijha882" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshi-jha-a332b8217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
