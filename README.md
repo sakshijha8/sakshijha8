@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at *Capanicus* as a **Web Developer.**
 
-- 🌱 I’m currently learning **Realtime Firebase Group and direct Chat.**
+- 🌱 I’m currently learning **Jssip Calling**
 
 - 🤝 I’m interesting & love  to do  **Web Development.**
 
