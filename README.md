@@ -8,7 +8,7 @@
 
 - 💙 Enthusiastic about **Web Development** and **crafting intuitive UIs.**
 
-- 💬 Ask me about **React.js** and  Node.js.
+- 💬 Ask me about **React.js** and  **Node.js**.
 
 - 📫 Reach me at sakshijha882@gmail.com
 <p align="left">
